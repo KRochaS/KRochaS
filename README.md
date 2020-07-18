@@ -18,7 +18,7 @@ I'm currently Frontend developer
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-#### :envelope: Find me
+#### :envelope: Contact me
 
 [![Linkedin
 Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&link=https://www.linkedin.com/in/krochas/)](https://www.linkedin.com/in/krochas/) [![Telegram
