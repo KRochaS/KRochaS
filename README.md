@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi! :smile:
 
 I'm Karine, my journey in programming started almost 3 years ago. 
 <br />
