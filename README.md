@@ -1,8 +1,8 @@
 ### Hi! :smile:
 
-I'm Karine, my journey in programming started almost 3 years ago. 
+My journey in programming started almost 3 years ago. 
 <br />
-Currently I work as a Frontend developer
+Currently I'm Frontend developer
 
 ####  :computer: Skills:
 <code><img height="30" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png"></code>
