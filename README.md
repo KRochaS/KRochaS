@@ -1,6 +1,6 @@
 ### Hi! :smile:
 
-My journey in programming started almost 3 years ago. 
+My journey in programming, started almost 3 years ago. 
 <br />
 Currently I'm Frontend developer
 
