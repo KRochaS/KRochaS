@@ -5,18 +5,19 @@ My coding journey started three years ago
 I'm currently Frontend developer
 
 
-####  :computer: Skills:
-<code><img height="30" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-<code><img height="30" src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/51726945/87152548-4d851a00-c28c-11ea-9f39-5a799361f051.png"></code>
+####  :computer: Technologies:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-35383E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
 
 #### :rocket: Studying:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+![ReactJS](https://img.shields.io/badge/-ReactJS-007ACC?style=flat-square&logo=react)
+![ReactNative](https://img.shields.io/badge/-ReactNative-007ACC?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 #### :envelope: Contact me
 
