@@ -22,5 +22,4 @@ I'm currently Frontend developer
 #### :envelope: Contact me
 
 [![Linkedin
-Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&link=https://www.linkedin.com/in/krochas/)](https://www.linkedin.com/in/krochas/) [![Telegram
-Badge](https://img.shields.io/badge/-Telegram-2EA2D5?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/KRochaS)](https://t.me/KRochaS)
+Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&link=https://www.linkedin.com/in/krochas/)](https://www.linkedin.com/in/krochas/)
