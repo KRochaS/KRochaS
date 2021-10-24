@@ -16,8 +16,6 @@ I'm currently Frontend developer
 
 #### :rocket: Studying:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-2A2C2E?style=flat-square&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-0F256E?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 #### :envelope: Contact me
 
