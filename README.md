@@ -14,4 +14,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
 #### :envelope: &nbsp;Contact 
-![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)&nbsp;
+
+<a href="https://linkedin.com/in/krochas" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
