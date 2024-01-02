@@ -3,8 +3,6 @@
 
  :computer: My coding journey started in 2017.
 
- 🌱  I’m currently learning **ReactJS**.
-
 #### 🛠 Tech stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
@@ -12,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Angular](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
 
 #### :envelope: &nbsp;Contact 
 
